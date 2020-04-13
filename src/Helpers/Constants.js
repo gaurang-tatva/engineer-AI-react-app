@@ -10,4 +10,4 @@ export const STATUS_CODE = {
   SUCCESS: 200,
 };
 
-export const API_CALL_TIMER = 5000;
+export const API_CALL_TIMER = 10000;
