@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Post listing app in react with redux and material UI:
 
 - Setup the application base using `create-react-app` which provide default linting tool(eslint) for code format.
-- Implemented grid view with search, sort and pagination facility.
+- Implemented grid view with search and pagination facility.
 - User can view post.
 - .env used for the application configuration.
 - Test cases are generated using the `react-test-renderer`.
