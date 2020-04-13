@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Order Component should render without throwing an error 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    className="MuiBox-root MuiBox-root-35"
+  >
+    <h6
+      className="MuiTypography-root makeStyles-elipsis-4 MuiTypography-h6 MuiTypography-gutterBottom"
+    >
+      Polio Vaccine's Efficacy Results Published Today (4/12) in 1955
+    </h6>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-66 makeStyles-descriptionContainer-2"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-67"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+      >
+        Author: 
+        <strong>
+          dpflan
+           
+        </strong>
+      </h6>
+    </div>
+    <div
+      className="MuiBox-root MuiBox-root-68"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+      >
+        2020-04-12T16:40:16.000Z
+      </h6>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-69 makeStyles-buttonContainer-3"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        View More
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Post Component should render without throwing an error 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    className="MuiBox-root MuiBox-root-35"
+  >
+    <h6
+      className="MuiTypography-root makeStyles-elipsis-4 MuiTypography-h6 MuiTypography-gutterBottom"
+    >
+      Polio Vaccine's Efficacy Results Published Today (4/12) in 1955
+    </h6>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-66 makeStyles-descriptionContainer-2"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-67"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+      >
+        Author: 
+        <strong>
+          dpflan
+           
+        </strong>
+      </h6>
+    </div>
+    <div
+      className="MuiBox-root MuiBox-root-68"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+      >
+        2020-04-12T16:40:16.000Z
+      </h6>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-69 makeStyles-buttonContainer-3"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        View More
+      </span>
+    </button>
+  </div>
+</div>
+`;
